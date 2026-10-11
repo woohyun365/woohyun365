@@ -47,8 +47,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/woohyun365/woohyun365/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/woohyun365/woohyun365/output/github-contribution-grid-snake.svg" alt="기여 잔디를 먹는 뱀 애니메이션">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=woohyun365&hide_border=true&locale=ko&theme=github-dark-blue">
+  <img src="https://streak-stats.demolab.com?user=woohyun365&hide_border=true&locale=ko" alt="woohyun365의 기여 연속 기록">
 </picture>
 
 </div>
