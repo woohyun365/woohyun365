@@ -47,8 +47,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=woohyun365&hide_border=true&locale=ko&theme=github-dark-blue">
-  <img src="https://streak-stats.demolab.com?user=woohyun365&hide_border=true&locale=ko" alt="woohyun365의 기여 연속 기록">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=woohyun365&hide_border=true&locale=ko&disable_animations=true&theme=github-dark-blue">
+  <img src="https://streak-stats.demolab.com?user=woohyun365&hide_border=true&locale=ko&disable_animations=true" alt="woohyun365의 기여 연속 기록">
 </picture>
 
 </div>
